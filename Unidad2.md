@@ -18,7 +18,7 @@
 | **APE06** | Distribuciones Continuas Notables | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_006_Normal1.ipynb) |
 | **APE07** | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica |  [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_007_TLC1.ipynb) |
 | **APE08** | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza ($Z$ y $T$ de Student) | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_008_Intervalos1.ipynb)  |
-| **APE09** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas ($Z$ y $T$) y Análisis del Valor-$p$ | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_009_Hipotesis_GrupoG1.ipynb)  |
+| **APE09** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas ($Z$ y $T$) y Análisis del Valor-p | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_009_Hipotesis_GrupoG1.ipynb)  |
 | **APE10** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2cb635f3c77a232623209b412c7cc20600cacd1b/APES/APE_010_DosMuestras.ipynb)  |
 
 ---
