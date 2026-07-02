@@ -24,9 +24,8 @@
 
 ## 👥 Aprendizaje en Contacto con el Docente (ACDU02)
 
-* **💬 Foro Académico U2:**[Detalles]
-* **📅 Trabajo Intraclase (01-06-2026):** [Detalles]
-* **📅 Trabajo Intraclase (06-06-2026):** [Detalles]
+* **📅 Trabajo Intraclase (01-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/fd412233566542ec2601e1b0d753639770fb8488/ACD/Naranjo_Pilar7.pdf)
+* **📅 Trabajo Intraclase (06-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/9ee8875d800e51952e18e7770d66c3846b8a4b1f/ACD/Trabajo_Clase.pdf)
 
 ---
 > 🧁 *«Los datos son solo resúmenes de miles de historias; la inferencia estadística es la herramienta para aprender a contarlas.»*
