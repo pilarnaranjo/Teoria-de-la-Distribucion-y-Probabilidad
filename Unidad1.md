@@ -16,12 +16,12 @@
 
 | Código 🎀 | Descripción de la Práctica 💖 | Detalles 🌸 |
 | :--- | :--- | :---: |
-| **APE00** | Fundamentos de Probabilidad y Espacios Muestrales | Ingresar  |
-| **APE01** | Variables Aleatorias y Distribuciones de Probabilidad | Ingresar |
+| **APE00** | Fundamentos de Probabilidad y Espacios Muestrales | [Ingresa](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/8bbb90a2bdc00a92cdcff111114e0255aaaf8c76/APES/APE00FundamentosdeProbabilida.pdf)  |
+| **APE01** | Variables Aleatorias y Distribuciones de Probabilidad | [Ingresar]() |
 | **APE02** | Distribuciones Muestrales y Teorema del Límite Central | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/a8fbbf2ad0d25ff19830c65f57893c2722ef202e/APES/APE2.ipynb)|
-| **APE03** | Variables Aleatorias Discretas y Continuas | Ingresar |
-| **APE04** | Momentos Estadísticos y Análisis de Tendencia Central con Python | Ingresar  |
-| **APE05** | Distribuciones Discretas Notables | Ingresar  |
+| **APE03** | Variables Aleatorias Discretas y Continuas | [Ingresar(https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/f13a330486dd7e8d93a0a6df9f256627a43548b6/APES/APE03..ipynb)] |
+| **APE04** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [Ingresar](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/8bbb90a2bdc00a92cdcff111114e0255aaaf8c76/APES/APE_04_Momentos4.ipynb)  |
+| **APE05** | Distribuciones Discretas Notables | [Ingresar] (https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/8bbb90a2bdc00a92cdcff111114e0255aaaf8c76/APES/APE_006_Distribuciones6.ipynb) |
 
 ---
 
