@@ -18,7 +18,7 @@
 | :--- | :--- | :---: |
 | **APE00** | Fundamentos de Probabilidad y Espacios Muestrales | Ingresar  |
 | **APE01** | Variables Aleatorias y Distribuciones de Probabilidad | Ingresar |
-| **APE02** | Distribuciones Muestrales y Teorema del Límite Central | Ingresar([APES/APE2.ipynb](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/55c8855a28823bcd3c74262a1524140dba4437f6/APES/APE2.ipynb))|
+| **APE02** | Distribuciones Muestrales y Teorema del Límite Central | Ingresar(https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/55c8855a28823bcd3c74262a1524140dba4437f6/APES/APE2.ipynb)|
 | **APE03** | Variables Aleatorias Discretas y Continuas | Ingresar |
 | **APE04** | Momentos Estadísticos y Análisis de Tendencia Central con Python | Ingresar  |
 | **APE05** | Distribuciones Discretas Notables | Ingresar  |
