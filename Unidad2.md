@@ -4,10 +4,9 @@
 
 ## 🌸 Aprendizaje Autónomo (AAU02)
 
-* **📊 Ajuste de Modelo Discreto:** [Detalles]
-* **🧬 Identificación de Normalidad:**[Detalles]
-* **🛡️ Defensa Parcial:** [Detalles]
-* **📈 Predicciones a Gran Escala (A.A.):**[Detalles]
+* **📊 Ajuste de Modelo Discreto:** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/198c3d9ec4028a3ef0ad7e804e48ffecef1d1dc7/AA/ABI2_GrupoG%20(1).ipynb)
+* **🧬 Identificación de Normalidad:**[Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/198c3d9ec4028a3ef0ad7e804e48ffecef1d1dc7/AA/ABI_GrupoG%20(1).ipynb)
+* **📈 Predicciones a Gran Escala (A.A.):**[Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/2edeeecb83bfe7dc9f35cbf7d976381c8f26fedc/AA/AA_GrupoG%20(1).ipynb)
 
 ---
 
