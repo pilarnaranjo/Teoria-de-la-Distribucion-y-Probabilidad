@@ -1,9 +1,0 @@
-### 🧠 Tipos de Probabilidad y Eventos
-
-| Concepto 🎀 | ¿Cuándo se usa? / Definición 💖 | Ejemplo Práctico 🌸 |
-| :--- | :--- | :--- |
-| **Eventos Independientes** | Ocurre cuando dos o más eventos **no se afectan entre sí**. El resultado del primero no cambia ni altera la probabilidad de que ocurra el segundo. | Lanzar una moneda y sacar cara no afecta que en el segundo lanzamiento vuelva a salir cara. *(O sacar una carta de una baraja, **regresarla**, y luego sacar otra).* |
-| **Probabilidad Condicional** | Es la posibilidad de que ocurra un evento $A$ **sabiendo que ya ha ocurrido** un evento $B$. Se conoce el resultado del primer evento y este afecta directamente al segundo. | Tener una bolsa con 6 caramelos (3 de fresa y 3 de naranja). Si un niño saca uno y se lo come, la probabilidad de que el siguiente caramelo sea del sabor contrario cambia porque ahora quedan menos caramelos en total. |
-| **Teorema de Bayes** | Sirve para **actualizar probabilidades** calculadas previamente cuando aparece nueva información o evidencia física. | Una enfermedad afecta a 1 de cada 100 personas. Te haces un test y da positivo. Bayes demuestra que, como la gran mayoría de la población está sana, sigue habiendo una alta probabilidad de que el positivo sea un "falso positivo" y no una certeza absoluta. |
-
----
