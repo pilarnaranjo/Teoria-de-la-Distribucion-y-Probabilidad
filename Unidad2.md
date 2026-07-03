@@ -2,7 +2,7 @@
 
 ---
 
-## 🌸 Aprendizaje Autónomo (AAU02)
+## 🌸 Aprendizaje Autónomo (AA)
 
 * **📊 Ajuste de Modelo Discreto:** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/198c3d9ec4028a3ef0ad7e804e48ffecef1d1dc7/AA/ABI2_GrupoG%20(1).ipynb)
 * **🧬 Identificación de Normalidad:**[Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/198c3d9ec4028a3ef0ad7e804e48ffecef1d1dc7/AA/ABI_GrupoG%20(1).ipynb)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔬 Aprendizaje Práctico Experimental (APEU02)
+## 🔬 Aprendizaje Práctico Experimental (APE)
 
 | Código 🎀 | Descripción de la Práctica Experimental 💖 | Detalles 🌸 |
 | :--- | :--- | :---: |
@@ -22,7 +22,7 @@
 
 ---
 
-## 👥 Aprendizaje en Contacto con el Docente (ACDU02)
+## 👥 Aprendizaje en Contacto con el Docente (ACD)
 
 * **📅 Trabajo Intraclase (01-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/fd412233566542ec2601e1b0d753639770fb8488/ACD/Naranjo_Pilar7.pdf)
 * **📅 Trabajo Intraclase (06-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/9ee8875d800e51952e18e7770d66c3846b8a4b1f/ACD/Trabajo_Clase.pdf)
