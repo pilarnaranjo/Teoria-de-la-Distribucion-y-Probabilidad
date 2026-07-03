@@ -28,4 +28,8 @@
 * **📅 Trabajo Intraclase (06-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/9ee8875d800e51952e18e7770d66c3846b8a4b1f/ACD/Trabajo_Clase.pdf)
 
 ---
+
+## Evaluación Sumativa
+* **Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP)
+
 > 🧁 *«Los datos son solo resúmenes de miles de historias; la inferencia estadística es la herramienta para aprender a contarlas.»*
