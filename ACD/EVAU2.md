@@ -1,6 +1,6 @@
 # 📊 **Evaluación Sumativa — Unidad 02**
 
- 📄 **Componente 1: El Documento Técnico *(Jupyter Notebook - `.ipynb`):**[Detalles](Examen/ExamenU2.ipynb)
+ 📄 **Componente 1: El Documento Técnico (Jupyter Notebook - `.ipynb`):**[Detalles](Examen/ExamenU2.ipynb)
 
 📹 **Componente 2:El Video de Defensa y Demostración en Código:**[Detalles](Examen/Link.md)
 
