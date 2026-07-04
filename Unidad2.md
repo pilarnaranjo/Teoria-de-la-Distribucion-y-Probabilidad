@@ -25,7 +25,7 @@
 ## 👥 Aprendizaje en Contacto con el Docente (ACD)
 
 * **📅 Trabajo Intraclase (01-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/fd412233566542ec2601e1b0d753639770fb8488/ACD/Naranjo_Pilar7.pdf)
-* **📅 Trabajo Intraclase (06-06-2026):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/9ee8875d800e51952e18e7770d66c3846b8a4b1f/ACD/Trabajo_Clase.pdf)
+* **📅 Trabajo Intraclase (06-06-2026):** [Detalles]([https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/9ee8875d800e51952e18e7770d66c3846b8a4b1f/ACD/Trabajo_Clase.pdf](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/ab8ffc91826dd0597f38864acc97e00a5689a35f/ACD/EVAU2.md))
 
 ---
 
