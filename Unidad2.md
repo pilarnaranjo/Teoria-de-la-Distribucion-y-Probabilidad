@@ -29,7 +29,7 @@
 
 ---
 
-## Evaluación Sumativa
-* **Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/ba498c02842cdbcd0cb04dad92dfa38648b7fd91/Examen/ExamenU2.md)
+## 💕Evaluación Sumativa
+* **🧾Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP):** [Detalles](https://github.com/pilarnaranjo/Teoria-de-la-Distribucion-y-Probabilidad/blob/ba498c02842cdbcd0cb04dad92dfa38648b7fd91/Examen/ExamenU2.md)
 
 > 🧁 *«Los datos son solo resúmenes de miles de historias; la inferencia estadística es la herramienta para aprender a contarlas.»*
