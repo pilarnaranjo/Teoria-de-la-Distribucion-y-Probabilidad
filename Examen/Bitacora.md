@@ -1,0 +1,7 @@
+# 📓 Bitácora de Aprendizaje — Inferencia Estadística Paramétrica
+
+Durante el desarrollo de esta práctica fortalecí mi comprensión sobre la inferencia estadística paramétrica y su aplicación mediante Python. Aprendí a formular y evaluar hipótesis utilizando las librerías `scipy.stats` y `statsmodels`, comprendiendo cómo estas herramientas facilitan el análisis de datos de manera eficiente y confiable. Asimismo, entendí la importancia del **valor-p** como un criterio fundamental para la toma de decisiones estadísticas, permitiéndome interpretar los resultados con mayor seguridad y sustento científico.
+
+Uno de los principales desafíos fue el manejo y la preparación de los datos en Pandas, ya que surgieron inconvenientes ocasionados por tipos de datos inconsistentes y la presencia de valores nulos. Para superar estas dificultades, realicé un proceso de limpieza y depuración de la base de datos, convirtiendo las variables al formato adecuado, eliminando registros incompletos y verificando la consistencia de la información antes de aplicar las pruebas paramétricas, como la **prueba t de Student** y el **ANOVA**.
+
+En conjunto, esta experiencia me permitió comprender la importancia de una adecuada preparación de los datos antes de cualquier análisis estadístico, además de fortalecer mis habilidades en la interpretación de resultados inferenciales y en el desarrollo de un flujo de trabajo más organizado, preciso y aplicable al **Proyecto Integrador Regional**.
